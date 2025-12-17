@@ -1,4 +1,4 @@
-# quant-lab-branden
+# data-lab-branden
 **Author:** Branden Huang  
 **University:** University of Washington, Mechanical Engineering Major, Business Administration Minor  
 **Focus:** Risk Analysis, Market Microstructure, Algorithmic Trading  
